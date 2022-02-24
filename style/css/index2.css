@@ -7,3 +7,12 @@
 .tituloPrincipal {
     text-align: center;
 }
+
+.rodape{
+
+    bottom: 0;
+    position: fixed;
+    width: 90%;
+    text-align: center;
+    
+}
