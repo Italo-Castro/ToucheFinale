@@ -1,28 +1,25 @@
-.body {
-
-  
-
+body {
+    background: #FFC0CB;
 }
-.navBar-pesquisa {
- padding: 0px 0px 0px 1500px;
-}
+
+
 
 .tituloPrincipal h1 {
     margin-top: 5px;
     text-align: center;
     font-style: oblique;
     color: 	black;
-    background-color: 	#FF00FF;
+   /* background-color: 	#FF00FF;*/
 }
 
 .tituloPrincipal h1:hover {
     transition: .8s;
     font-style: normal;
-    background-color: #EE82EE;	
+    /*background-color: #EE82EE;	*/
 } 
 
 .tituloPrincipal h3 {
-    background-color: 	#FF00FF;
+    /*background-color: 	#FF00FF;*/
     color: 	black;
     display: inline-block;
 } 
